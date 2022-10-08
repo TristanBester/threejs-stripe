@@ -1,0 +1,17 @@
+{
+  "name": "three-fire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "2.7.0",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "nice-color-palettes": "^3.0.0",
+    "three": "^0.145.0"
+  }
+}
